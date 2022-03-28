@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "name": "Samuel",
+      "password": "secret",
+      "location": "bangalore",
+      "interests": [
+        "technology",
+        "food",
+        "movies",
+        "culture",
+        "art",
+        "drama"
+      ],
+      "image": "https://images.unsplash.com/photo",
+      "id": 1,
+      "subscribed": [
+        1,
+        5
+      ]
+    },
+    {
+      "name": "Aysuh",
+      "password": "123",
+      "location": "delhi",
+      "interests": [],
+      "image": "https://images.unsplash.com/photo",
+      "food": "on",
+      "movies": "on",
+      "id": 3,
+      "subscribed": [
+        1,
+        5
+      ]
+    },
+    {
+      "name": "ayush",
+      "password": "1234545",
+      "location": "bangalore",
+      "interests": [],
+      "image": "http://ayushimage",
+      "food": "on",
+      "movies": "on",
+      "id": 4
+    },
+    {
+      "name": "awe",
+      "password": "awe",
+      "location": "",
+      "interests": [],
+      "image": "asdads",
+      "subscribed": [],
+      "food": "on",
+      "id": 5
+    }
+  ]
+}
