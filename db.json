@@ -52,6 +52,24 @@
       "subscribed": [],
       "food": "on",
       "id": 5
+    },
+    {
+      "name": "asd",
+      "password": "asd",
+      "location": "",
+      "interests": [],
+      "image": "asdasd",
+      "food": "on",
+      "id": 6
+    },
+    {
+      "name": "ayush",
+      "password": "123",
+      "location": "bangalore",
+      "interests": [],
+      "image": "https://mypic/",
+      "subscribed": [],
+      "id": 7
     }
   ]
 }
