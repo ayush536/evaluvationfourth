@@ -1,135 +1,81 @@
 {
   "users": [
     {
-      "name": "Samuel",
-      "password": "secret",
+      "name": "Shubham",
+      "password": "shubham",
       "location": "bangalore",
       "interests": [
         "technology",
         "food",
-        "movies",
-        "culture",
-        "art",
-        "drama"
+        "movies"
       ],
-      "image": "https://images.unsplash.com/photo",
-      "id": 1,
-      "subscribed": [
-        1,
-        5
-      ]
+      "image": "some images",
+      "subscribed": [],
+      "id": 3
     },
     {
-      "name": "Aysuh",
-      "password": "123",
-      "location": "delhi",
-      "interests": [],
-      "image": "https://images.unsplash.com/photo",
-      "food": "on",
-      "movies": "on",
-      "id": 3,
-      "subscribed": [
-        1,
-        5
-      ]
-    },
-    {
-      "name": "ayush",
-      "password": "1234545",
-      "location": "bangalore",
-      "interests": [],
-      "image": "http://ayushimage",
-      "food": "on",
-      "movies": "on",
+      "name": "Ayush",
+      "password": "ayu",
+      "location": "",
+      "interests": [
+        "art"
+      ],
+      "image": "ert",
+      "subscribed": [],
       "id": 4
     },
     {
-      "name": "awe",
-      "password": "awe",
+      "name": "Ayush",
+      "password": "ayu",
       "location": "",
-      "interests": [],
-      "image": "asdads",
+      "interests": [
+        "art",
+        "art"
+      ],
+      "image": "ert",
       "subscribed": [],
-      "food": "on",
       "id": 5
-    },
-    {
-      "name": "asd",
-      "password": "asd",
-      "location": "",
-      "interests": [],
-      "image": "asdasd",
-      "food": "on",
-      "id": 6
-    },
-    {
-      "name": "ayush",
-      "password": "123",
-      "location": "bangalore",
-      "interests": [],
-      "image": "https://mypic/",
-      "subscribed": [],
-      "id": 7
-    },
-    {
-      "name": "ase",
-      "password": "ase",
-      "location": "",
-      "interests": [],
-      "image": "asfdasfd",
-      "subscribed": [],
-      "food": "on",
-      "id": 8
     }
   ],
   "meetups": [
     {
-      "id": 1,
-      "title": "Saunter Strech",
-      "location": "bangalore",
-      "date": "2022-03-25",
-      "time": "23:59",
-      "theme": "technology",
-      "description": "Random Event",
-      "image": "https://images.unsplash.com/photo"
+      "title": "sad",
+      "location": "kolkata",
+      "date": "2020-10-02",
+      "time": "11:30",
+      "theme": "food",
+      "description": "mad",
+      "image": "sad",
+      "id": 1
     },
     {
-      "title": "sdfsd",
-      "password": "",
-      "location": "bangalore",
-      "interests": [],
-      "image": "dfdaf",
-      "subscribed": [],
-      "date": "dfdf",
-      "time": "dfdf",
-      "theme": "technology",
-      "description": "dfd",
+      "title": "sad",
+      "location": "kolkata",
+      "date": "2020-10-02",
+      "time": "11:30",
+      "theme": "food",
+      "description": "mad",
+      "image": "sad",
       "id": 2
     },
     {
-      "title": "gh",
-      "password": "",
+      "title": "ssad",
       "location": "bangalore",
-      "interests": [],
-      "image": "ghgh",
-      "subscribed": [],
-      "date": "ghgh",
-      "time": "ghgh",
-      "description": "ghgh",
-      "theme": "technology",
+      "date": "31412",
+      "time": "123",
+      "theme": "movies",
+      "description": "wqeqedsq",
+      "image": "wqe",
       "id": 3
     },
     {
-      "title": "program",
-      "password": "",
+      "title": "ssad",
       "location": "bangalore",
-      "interests": [],
-      "image": "asdasdasd",
-      "subscribed": [],
-      "date": "2002-12-12",
-      "time": "12:12",
-      "theme": "technology",
-      "description": "asdasd",
+      "date": "31412",
+      "time": "123",
+      "theme": "movies",
+      "description": "wqeqedsq",
+      "image": "wqe",
       "id": 4
     }
   ]
