@@ -70,6 +70,67 @@
       "image": "https://mypic/",
       "subscribed": [],
       "id": 7
+    },
+    {
+      "name": "ase",
+      "password": "ase",
+      "location": "",
+      "interests": [],
+      "image": "asfdasfd",
+      "subscribed": [],
+      "food": "on",
+      "id": 8
+    }
+  ],
+  "meetups": [
+    {
+      "id": 1,
+      "title": "Saunter Strech",
+      "location": "bangalore",
+      "date": "2022-03-25",
+      "time": "23:59",
+      "theme": "technology",
+      "description": "Random Event",
+      "image": "https://images.unsplash.com/photo"
+    },
+    {
+      "title": "sdfsd",
+      "password": "",
+      "location": "bangalore",
+      "interests": [],
+      "image": "dfdaf",
+      "subscribed": [],
+      "date": "dfdf",
+      "time": "dfdf",
+      "theme": "technology",
+      "description": "dfd",
+      "id": 2
+    },
+    {
+      "title": "gh",
+      "password": "",
+      "location": "bangalore",
+      "interests": [],
+      "image": "ghgh",
+      "subscribed": [],
+      "date": "ghgh",
+      "time": "ghgh",
+      "description": "ghgh",
+      "theme": "technology",
+      "id": 3
+    },
+    {
+      "title": "program",
+      "password": "",
+      "location": "bangalore",
+      "interests": [],
+      "image": "asdasdasd",
+      "subscribed": [],
+      "date": "2002-12-12",
+      "time": "12:12",
+      "theme": "technology",
+      "description": "asdasd",
+      "id": 4
     }
   ]
 }

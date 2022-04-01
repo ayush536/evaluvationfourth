@@ -26,7 +26,7 @@ export const AddMeetup = () => {
 
   return (
     <div className="addMeetupContainer">
-      <form>
+      <form onSubmit={handleSubmitSignup}>
         <h1>Add Meetup</h1>
         <label>title</label>
         <input type="text" className="title" onChange={(e) => { handleChangeMeetup(e)}} required />
